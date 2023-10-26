@@ -1,0 +1,8 @@
+myvenv/
+.vscode/
+.pytest_case/
+*/__pycache__
+help
+q
+s
+save
